@@ -1,6 +1,3 @@
-import bv, log_info
-import HighLevelILOperation
-
 def calculate_data_size(data_address):
     data_size = 5
     start = data_address + 5
